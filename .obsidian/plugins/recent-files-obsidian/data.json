@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Getting Started",
+      "path": "Getting Started.md"
+    },
+    {
+      "basename": "Contact Overview",
+      "path": "Contact Overview.md"
+    },
+    {
+      "basename": "Application Overview",
+      "path": "Application Overview.md"
+    },
+    {
+      "basename": "2022-08-20 - Intro to Weave",
+      "path": "Meetings/General/2022-08-20 - Intro to Weave.md"
+    },
+    {
       "basename": "Torre Dei Maghi",
       "path": "Applications/TorreDeiMaghi/Torre Dei Maghi.md"
     },
@@ -33,24 +49,8 @@
       "path": "Task Overview.md"
     },
     {
-      "basename": "Demo App 2",
-      "path": "Demo App 2.md"
-    },
-    {
-      "basename": "Getting Started",
-      "path": "Getting Started.md"
-    },
-    {
-      "basename": "Application Overview",
-      "path": "Application Overview.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "2022-08-20 - Intro to Weave",
-      "path": "Meetings/General/2022-08-20 - Intro to Weave.md"
     },
     {
       "basename": "2024-04-29 - Standup",
@@ -71,10 +71,6 @@
     {
       "basename": "2024-04-30",
       "path": "_fit/2024-04-30.md"
-    },
-    {
-      "basename": "Contact Overview",
-      "path": "Contact Overview.md"
     }
   ],
   "omittedPaths": [],

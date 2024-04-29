@@ -6,6 +6,7 @@
       {
         "id": "848f4b1dc7a00eb9",
         "type": "tabs",
+        "dimension": 70.09609949123798,
         "children": [
           {
             "id": "c1886f047f765b35",
@@ -39,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,6 +49,48 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "7811b88dbf91f5b3",
+        "type": "tabs",
+        "dimension": 29.90390050876201,
+        "children": [
+          {
+            "id": "2f470e4ecd6810d5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Getting Started.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7069023997743942,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,47 +137,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "775b9046d546b8d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2f470e4ecd6810d5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+                "file": "Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md"
+                "file": "Getting Started.md"
               }
             }
           },
@@ -281,21 +283,22 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "b301d14b0ce40b28",
+  "active": "058cb5f8aa87426c",
   "lastOpenFiles": [
-    "Daily/2024-04-27.md",
+    "Contact Overview.md",
+    "Demo App 2.md",
+    "Application Overview.md",
+    "Meetings/General/2022-08-20 - Intro to Weave.md",
     "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+    "Daily/2024-04-27.md",
     "Daily/2024-04-21.md",
     "Daily/2022-08-22.md",
     "Daily/2024-04-29.md",
     "Contacts/John Smith.md",
     "Contacts/Gianluca Aceto.md",
     "Task Overview.md",
-    "Demo App 2.md",
     "Getting Started.md",
-    "Application Overview.md",
     "README.md",
-    "Meetings/General/2022-08-20 - Intro to Weave.md",
     "Meetings/Standup/2024-04-29 - Standup.md",
     "_fit/Daily/2024-04-29.sync-conflict-20240429-123234-QNTG62D.md",
     "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-123234-QNTG62D.md.tmp",
@@ -318,7 +321,6 @@
     "_fit/System/Templates/daily.sync-conflict-20240429-120434-QNTG62D.md",
     "_fit/System/Templates/~syncthing~daily.sync-conflict-20240429-120434-QNTG62D.md.tmp",
     "_fit/System/Templates/daily.sync-conflict-20240429-120335-QNTG62D.md",
-    "Applications/TorreDeiMaghi/TorreDeiMaghi.md",
     "Untitled.canvas"
   ]
 }
