@@ -1,4 +1,14 @@
 {
+  "pat": "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",
+  "owner": "mechrisfior",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/104512960?v=4",
+  "repo": "obsidian",
+  "branch": "main",
+  "deviceName": "C",
+  "checkEveryXMinutes": 1,
+  "autoSync": "on",
+  "notifyChanges": true,
+  "notifyConflicts": true,
   "localSha": {
     "Task Overview.md": "37bff3c9b4bd946cd1cdf3dee21ac05e9a218798",
     "System/Templates/meeting_team.md": "9234fe00ce99a26a99e5e5bf693113a35a2ab230",
@@ -59,15 +69,5 @@
     "System/Templates/meeting_team.md": "f3773ddb53069cef50447468e6f81c82d6ca71a7",
     "Task Overview.md": "fe732db0dd643a6d8414db3d70b064ba4cc55a3b",
     "piecesdb.json": "7fba7070259f1fdf1373b7bc90b5948671d06565"
-  },
-  "pat": "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",
-  "owner": "mechrisfior",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/104512960?v=4",
-  "repo": "obsidian",
-  "branch": "main",
-  "deviceName": "C",
-  "checkEveryXMinutes": 1,
-  "autoSync": "on",
-  "notifyChanges": false,
-  "notifyConflicts": true
+  }
 }
