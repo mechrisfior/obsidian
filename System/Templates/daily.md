@@ -6,7 +6,7 @@ type: daily_note
 # <% tp.file.title %>
 << [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]>>
 
-# Daily Schedule
+# #### New Today
 
 ## Tasks
 
@@ -30,7 +30,7 @@ path does not include Templates
 
 ```
 
-#### New Today
+
 
 
 
