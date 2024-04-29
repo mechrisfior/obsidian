@@ -30,10 +30,10 @@ Weave uses these "Applications" to help sort your daily log, as well as track ta
 	- [x] Hit `ctrl + p`  or `cmd + p` and type "Application" ✅ 2024-04-29
 	- [x] In the command pallete list you should have an option for "Template - Add Application" ✅ 2024-04-29
 	- [x] The new Application should be generated in your Application folder, with it's own folder matching the application name you provided. ✅ 2024-04-29
-	- [ ] Try adding an application specific note:
-		- [ ] This command **MUST** be run from within the application note you want the note added to (example, be inside the [[Applications/TorreDeiMaghi/Torre Dei Maghi]] note before running the command)
-		- [ ] Hit `Ctrl/Cmd + p` and type 'Application Note'
-		- [ ] In the command pallete list you should have an option for "Template - Add Application Note"
+	- [x] Try adding an application specific note: ✅ 2024-04-29
+		- [x] This command **MUST** be run from within the application note you want the note added to (example, be inside the [[Applications/TorreDeiMaghi/Torre Dei Maghi]] note before running the command) ✅ 2024-04-29
+		- [x] Hit `Ctrl/Cmd + p` and type 'Application Note' ✅ 2024-04-29
+		- [x] In the command pallete list you should have an option for "Template - Add Application Note" ✅ 2024-04-29
 		- [x] Fill out a name and begin adding notes to the application ✅ 2024-04-29
 - [x] Review [[Application Overview]] again, the new application should already be in the list ✅ 2024-04-29
 
@@ -101,15 +101,15 @@ Most of the time, for ad hoc meetings you want to document / remember, the `Gene
 	- [x] Your top option should be: `QuckAdd: Template - Team Meeting` ✅ 2024-04-29
 	- [x] Click Enter and begin filling in meeting details ✅ 2024-04-29
 - [x] Create a Standup meeting by: ✅ 2024-04-29
-	- [ ] Hit `Cntrl + P` or `Cmd + P` and type out Standup
-	- [ ] Your top option should be: `QuckAdd: Template - Standup Meeting`
-	- [ ] Click Enter and begin filling in meeting details
-- [ ]  Create a General meeting by:
-	- [ ] Hit `Cntrl + P` or `Cmd + P` and type out General
-	- [ ] Your top option should be: `QuckAdd: Template - Team Meeting`
-	- [ ] Click Enter and provide a name to help you remember this meeting (I often just use the title of the meeting from my email)
-	- [ ] Begin filling in meeting details
-- [ ] Take a look at some of the demo meetings provided to see the interlinking between the application, contact, tasks, and meetings
+	- [x] Hit `Cntrl + P` or `Cmd + P` and type out Standup ✅ 2024-04-29
+	- [x] Your top option should be: `QuckAdd: Template - Standup Meeting` ✅ 2024-04-29
+	- [x] Click Enter and begin filling in meeting details ✅ 2024-04-29
+- [x] Create a General meeting by: ✅ 2024-04-29
+	- [x] Hit `Cntrl + P` or `Cmd + P` and type out General ✅ 2024-04-29
+	- [x] Your top option should be: `QuckAdd: Template - Team Meeting` ✅ 2024-04-29
+	- [x] Click Enter and provide a name to help you remember this meeting (I often just use the title of the meeting from my email) ✅ 2024-04-29
+	- [x] Begin filling in meeting details ✅ 2024-04-29
+- [x] Take a look at some of the demo meetings provided to see the interlinking between the application, contact, tasks, and meetings ✅ 2024-04-29
 
 > [!tip] Lots of Meetings?
 > If you (unfortunately) spend most of your time in meetings like me, you might want to subfolder your meeting types. You can modify the `Template - Add <Meeting Name>` quick add setting to save the meeting into a folder specific to it's type, or have the quick add prompt you.
