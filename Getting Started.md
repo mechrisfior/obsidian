@@ -13,7 +13,7 @@ If Weave helped you, consider giving it a star on github.
 At the top level of the vault we have the folders that organize our notes, and (excluding this getting started note) 3 Overview Notes to help you gain insight into the current state of your vault.
 
 - [x] Review [[Application Overview]] 📅 2024-04-29 ✅ 2024-04-29
-- [ ] Review [[Contact Overview]]
+- [x] Review [[Contact Overview]] ✅ 2024-04-29
 - [ ] Review [[Task Overview]]
 
 > [!tip]
