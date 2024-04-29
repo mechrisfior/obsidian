@@ -32,8 +32,6 @@ path does not include _fit
 
 #### New Today
 
-- [ ] 
-
 
 
 ## Meeting Log
