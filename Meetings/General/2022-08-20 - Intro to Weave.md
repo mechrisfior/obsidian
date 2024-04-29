@@ -28,4 +28,4 @@ Quick meeting to go over how to use Weave and its intended useage as a system.
 
 ## Next Actions
 
-- [x] #task #me #john 📅 2022-08-27 Follow up on what I've learned using #weave ✅ 2024-04-21
+- [x] #task #me #john 📅 2022-08-27 Follow up on what I've learned using #weave ✅ 2024-04-29
