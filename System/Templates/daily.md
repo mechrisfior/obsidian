@@ -38,7 +38,7 @@ path does not include _fit
 
 ```dataview
 table start_time as "Start Time", end_time as "End Time", duration as "Duration" from "Meetings"
-where date(date) = date(2022-08-20)
+where date(date) = date(<% tp.file.title %>)
 ```
 ## Daily Log
 
@@ -157,5 +157,7 @@ path does not include System
 done on <% tp.file.title %>
 
 path does not include System
+path does not include _fit
+
 
 ```
