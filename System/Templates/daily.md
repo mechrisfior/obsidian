@@ -77,68 +77,14 @@ path does not include Templates
 
 ```tasks
 
-done on 2022-08-20
+done on <% tp.file.title %>
 
-path does not include Templates
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Today
- 
-
-#### Over Due
-```tasks
-
-not done
-
-due before <% tp.file.title %>
+path does not include System
+path does not include _fit
 
 ```
 
-#### Due Today
-```tasks
-
-not done
-
-due on <% tp.file.title %>
-
-path does not include Templates
-
-```
-
-
-
-
-
-## Meeting Log
-
-```dataview
-table start_time as "Start Time", end_time as "End Time", duration as "Duration" from "Meetings"
-where date(date) = date(<% tp.file.title %>)
-```
-## Daily Log
-
-### General
-
-<% tp.file.cursor() %>
-
-### Other
-
-
-
-
+-  
 ## Other Tasks
 
 #### No Due Date
