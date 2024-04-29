@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "daily-notes",
+    "daily-notes:goto-prev",
+    "daily-notes:goto-next",
+    "quickadd:runQuickAdd"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "accentColor": "#59a003",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Notebook Backgrounds",
+    "Runescape"
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Ebrima",
+  "cssTheme": "🔔 Chime",
+  "showViewHeader": false
+}

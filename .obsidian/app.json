@@ -1,0 +1,13 @@
+{
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "02 Documentation/attachments",
+  "showInlineTitle": false,
+  "focusNewTab": true,
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "promptDelete": false
+}

@@ -1,0 +1,324 @@
+{
+  "main": {
+    "id": "ce64aaaa747471b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "848f4b1dc7a00eb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1886f047f765b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-04-29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55540167a60b113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-04-29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b301d14b0ce40b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aef3f284497a9a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceef6f39d00b9424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058cb5f8aa87426c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d69464c766a76762",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TorreDeiMaghi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57c9de4dbc6b5ece",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "775b9046d546b8d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f470e4ecd6810d5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "3586b0d504d45603",
+    "type": "split",
+    "children": [
+      {
+        "id": "732763b45a19cb2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "180960164d9f1c39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee3794dd5835e1bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "784044b4fe6a359c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8651938840f5c9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Applications/TorreDeiMaghi/Torre Dei Maghi.md"
+              }
+            }
+          },
+          {
+            "id": "ac3f8ea6c79c0954",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eebbedecb8c74e03",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d28696e98cdd3186",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee4f6622d2844254",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8282bf7757b6aeab",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "59ce318daa57f529",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "79c13cca6d4779e0",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fit:Fit Sync": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false,
+      "pieces-for-developers:Pieces For Developers": false
+    }
+  },
+  "active": "b301d14b0ce40b28",
+  "lastOpenFiles": [
+    "Daily/2024-04-27.md",
+    "Applications/TorreDeiMaghi/Torre Dei Maghi.md",
+    "Daily/2024-04-21.md",
+    "Daily/2022-08-22.md",
+    "Daily/2024-04-29.md",
+    "Contacts/John Smith.md",
+    "Contacts/Gianluca Aceto.md",
+    "Task Overview.md",
+    "Demo App 2.md",
+    "Getting Started.md",
+    "Application Overview.md",
+    "README.md",
+    "Meetings/General/2022-08-20 - Intro to Weave.md",
+    "Meetings/Standup/2024-04-29 - Standup.md",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-123234-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-123234-QNTG62D.md.tmp",
+    "System/Templates/daily.md",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-121436-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-121436-QNTG62D.md.tmp",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-121334-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-121334-QNTG62D.md.tmp",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-121234-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-121234-QNTG62D.md.tmp",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-121135-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-121135-QNTG62D.md.tmp",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-121034-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-121034-QNTG62D.md.tmp",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-120934-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-120934-QNTG62D.md.tmp",
+    "_fit/Daily/2024-04-29.sync-conflict-20240429-120834-QNTG62D.md",
+    "_fit/Daily/~syncthing~2024-04-29.sync-conflict-20240429-120834-QNTG62D.md.tmp",
+    "_fit/Daily/~syncthing~2024-04-29.md.tmp",
+    "_fit/System/Templates/daily.sync-conflict-20240429-120434-QNTG62D.md",
+    "_fit/System/Templates/~syncthing~daily.sync-conflict-20240429-120434-QNTG62D.md.tmp",
+    "_fit/System/Templates/daily.sync-conflict-20240429-120335-QNTG62D.md",
+    "Applications/TorreDeiMaghi/TorreDeiMaghi.md",
+    "Untitled.canvas"
+  ]
+}

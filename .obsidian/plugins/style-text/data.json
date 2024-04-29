@@ -1,0 +1,54 @@
+{
+  "styles": [
+    {
+      "name": "Super Big",
+      "css": "font-size: 28px;",
+      "contextMenu": true
+    },
+    {
+      "name": "Super Big Yellow Highlight",
+      "css": "font-size: 28px; background-color: #fff88f; color: black",
+      "contextMenu": true
+    },
+    {
+      "name": "Big",
+      "css": "font-size: 24px",
+      "contextMenu": true
+    },
+    {
+      "name": "Big Green Highlight",
+      "css": "font-size: 24px; background-color: #1EFF00; color: black",
+      "contextMenu": true
+    },
+    {
+      "name": "Large",
+      "css": "font-size: 20px",
+      "contextMenu": true
+    },
+    {
+      "name": "Large Yellow",
+      "css": "font-size: 20px; color: yellow",
+      "contextMenu": true
+    },
+    {
+      "name": "Large Orange",
+      "css": "font-size: 20px; color: orange",
+      "contextMenu": true
+    },
+    {
+      "name": "Large Red",
+      "css": "font-size: 20px; color: red",
+      "contextMenu": false
+    },
+    {
+      "name": "Green Highlight",
+      "css": "background-color: #1EFF00; color: black",
+      "contextMenu": true
+    },
+    {
+      "name": "Yellow Highlight",
+      "css": "background-color: #fff88f; color: black",
+      "contextMenu": true
+    }
+  ]
+}
