@@ -53,15 +53,7 @@ where date(date) = date(<% tp.file.title %>)
 
 ## Daily Check List
 
-### Start of Day
-- [ ] Check Email
-- [ ] Check Teams
-- [ ] Check Slack
 
-### End of Day
-- [ ] Clean Unused Headings in Daily Log
-- [ ] Check tomorrow's calendar
-- [ ] Zero Inbox
 
 ## Other Tasks
 
