@@ -14,7 +14,7 @@ At the top level of the vault we have the folders that organize our notes, and (
 
 - [x] Review [[Application Overview]] 📅 2024-04-29 ✅ 2024-04-29
 - [x] Review [[Contact Overview]] ✅ 2024-04-29
-- [ ] Review [[Task Overview]]
+- [x] Review [[Task Overview]] ✅ 2024-04-29
 
 > [!tip]
 > Consider "starring" the overviews that provide value to you. These overviews look at the entire vault, more targetted data views and lists are generated within notes.
