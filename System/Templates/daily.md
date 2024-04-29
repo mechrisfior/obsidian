@@ -6,6 +6,8 @@ type: daily_note
 # <% tp.file.title %>
 << [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]>>
 
+# Daily Schedule
+
 ## Tasks
 
 #### Over Due
@@ -43,15 +45,9 @@ where date(date) = date(<% tp.file.title %>)
 ### General
 
 <% tp.file.cursor() %>
-### [[Applications/TorreDeiMaghi/Torre Dei Maghi]]
-
-### [[Demo App 2]]
-
-### [[Demo App 3]]
 
 ### Other
 
-## Daily Check List
 
 
 
