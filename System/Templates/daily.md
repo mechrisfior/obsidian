@@ -14,7 +14,7 @@ type: daily_note
 
 not done
 
-due before 2022-08-20
+due before <% tp.file.title %>
 
 ```
 
@@ -23,17 +23,16 @@ due before 2022-08-20
 
 not done
 
-due on 2022-08-20
+due on <% tp.file.title %>
 
 path does not include Templates
+path does not include _fit
 
 ```
 
 #### New Today
 
-- [x] #task Commit changes to github ✅ 2024-04-29
-- [x] 📅 2024-04-22 ⏫ uscire con la mia donna ✅ 2024-04-29
-- [x]  ✅ 2024-04-2
+- [ ] 
 
 
 
