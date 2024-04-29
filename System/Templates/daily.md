@@ -83,27 +83,3 @@ path does not include System
 path does not include _fit
 
 ```
-
--  
-## Other Tasks
-
-#### No Due Date
-```tasks
-
-not done
-no due date
-path does not include System
-
-```
-
-#### Done Today
-
-```tasks
-
-done on <% tp.file.title %>
-
-path does not include System
-path does not include _fit
-
-
-```
