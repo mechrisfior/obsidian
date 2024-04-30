@@ -5,6 +5,14 @@ task_tag: lovval
 summary: 
 type: application
 created: 2024-04-29 09:25
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
+color: var(--mk-color-yellow)
 ---
 
 # [[LovvaL]]

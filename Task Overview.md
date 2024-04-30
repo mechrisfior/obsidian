@@ -1,5 +1,6 @@
 ---
 tags: task overview
+sticker: lucide//calendar-check
 ---
 
 # [[Task Overview]]
@@ -9,6 +10,7 @@ tags: task overview
 ```tasks
 not done
 path does not include System
+path does not include _fit
 ```
 
 ## Completed Tasks
@@ -16,4 +18,5 @@ path does not include System
 ```tasks
 done
 path does not include System
+path does not include _fit
 ```

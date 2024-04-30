@@ -6,7 +6,6 @@ summary: Ecommerce & Social Media Marketing per una fumetteria
 type: application
 created: 2024-04-29 09:22
 ---
-
 # [[TorreDeiMaghi]]
 
 ```dataview

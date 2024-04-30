@@ -16,10 +16,11 @@
   "obsidian-kanban",
   "obsidian-style-settings",
   "obsidian-day-planner",
-  "css-snippets",
   "snippet-commands-obsidian",
   "css-editor",
   "style-text",
   "google-calendar",
-  "pieces-for-developers"
+  "pieces-for-developers",
+  "homepage",
+  "css-snippets"
 ]

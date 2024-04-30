@@ -42,6 +42,9 @@ where date(date) = date(<% tp.file.title %>)
 ```
 ## Daily Log
 
+- 
+- 
+- 
 ### General
 
 22:10 - Started working on the Weave system.
@@ -70,6 +73,7 @@ not done
 no due date
 
 path does not include Templates
+path does not include _fit
 
 ```
 

@@ -1,16 +1,14 @@
 {
   "accentColor": "#77ca12",
   "enabledCssSnippets": [
-    "Colored Sidebar Items",
-    "CyanVoxel's General Tweaks",
-    "Daily Note Themes",
-    "Notebook Backgrounds",
-    "Runescape"
+    "Colored Sidebar Items"
   ],
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "baseFontSize": 15,
-  "interfaceFontFamily": "Ebrima",
-  "cssTheme": "🔔 Chime",
-  "showViewHeader": false
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Inter",
+  "cssTheme": "",
+  "showViewHeader": true,
+  "textFontFamily": "Verdana",
+  "nativeMenus": true
 }
